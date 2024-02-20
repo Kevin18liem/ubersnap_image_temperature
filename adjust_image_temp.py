@@ -81,8 +81,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-# It expresses color as three values:
-# L* for perceptual lightness and a* and b* for the four unique colors of human vision: red, green, blue and yellow.
-# Need to explain why convert it to LAB
-# Grayworld assumption
